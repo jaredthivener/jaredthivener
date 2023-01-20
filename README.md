@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **Azure🛠️**
 
-- ⚡ Fun facts **Movie Buff :movie_camera: and Rock n Roll :heart:**
+- :heart: Fun facts **Movie Buff :movie_camera: and Rock n Roll :guitar:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jared-t-81b764b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://uk.linkedin.com/in/kevinevans01" height="30" width="40" /></a>
-<a href="https://discord.gg/QUTvjv42JM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QUTvjv42JM" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jared-t-81b764b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jared-t-81b764b2/" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/951998226381295687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QUTvjv42JM" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
