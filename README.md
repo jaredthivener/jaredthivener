@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jared Thivener</h1>
-<h3 align="center">Sr. Azure Platform Engineer @Mercedes-Benz<a href="https://www.mbusa.com/en/home" target="_blank" rel="noreferrer"> <img src="https://github.com/dangnelson/car-makes-icons/blob/master/svgs/mercedes%20benz%20alt.svg" alt="mercedes-benz" width="30" height="30"/> </a></h3>
+<h1 align="left">Hi 👋, I'm Jared Thivener</h1>
+<h3 align="left">Sr. Azure Platform Engineer @Mercedes-Benz<a href="https://www.mbusa.com/en/home" target="_blank" rel="noreferrer"> <img src="https://github.com/dangnelson/car-makes-icons/blob/master/svgs/mercedes%20benz%20alt.svg" alt="mercedes-benz" width="30" height="30"/> </a></h3>
 
 - 🔭 Passionate about **Azure, IaC, Kubernetes, and DevOps ☁️**
 
