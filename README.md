@@ -3,7 +3,7 @@
 
 - 🔭 Passionate about **Azure, IaC, Kubernetes, and DevOps ☁️**
 
-- 🌱 I’m currently mastering **Bicep 💪 & Kubernetes**
+- 🌱 I’m currently mastering **Azure Bicep 💪 & Kubernetes**
 
 - 💬 Ask me about **Azure🛠️**
 
