@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Azure🛠️**
 
-- :heart: Fun facts **Movie Buff :movie_camera: and Rock n Roll :guitar:**
+- Fun facts! I  :heart:**Movie Buff :movie_camera: and Rock n Roll :guitar:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
