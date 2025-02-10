@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jared Thivener</h1>
-<h3 align="left">Principal Cloud Architect @Mercedes-Benz</h3>
+<h3 align="left">Cloud Platform Engineer</h3>
 
 - 🔭 Passionate about **Azure, IaC, Kubernetes, and DevOps ☁️**
 
